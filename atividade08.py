@@ -14,4 +14,4 @@ pedido.remove("milkshake")
 #Removendo pela posição
 pedido.pop(3)
 
-print(pedido)
+print(pedido) 
